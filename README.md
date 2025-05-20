@@ -19,3 +19,6 @@ There are 4 categories of transforms here.
 4. Augmenting
   - Categorizing
   - Labeling
+5. Profiling
+6. Reduction
+7. Validation
