@@ -1,0 +1,12 @@
+[package]
+name = "transform-normalize-timestamps"
+group = "transform-normalize-timestamps"
+version = "0.1.0"
+apiVersion = "0.1.0"
+description = "A pilot project for a Fluvio Smartmodule"
+license = "Apache-2.0"
+visibility = "public"
+
+[[params]]
+name = "input"
+description = "input description"
